@@ -1,0 +1,20 @@
+# Python environment
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Large Datasets (Kaggle/Raw Data)
+*.csv
+
+# User Local Database & App Data
+reading_list.json
+.streamlit/
+
+# IDE configs
+.vscode/
+.idea/
+.DS_Store
